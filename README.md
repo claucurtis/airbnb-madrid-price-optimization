@@ -1,2 +1,2 @@
 # airbnb-madrid-price-optimization
-Análisis y Data Storytelling sobre AirBnB Madrid para optimizar el precio de viviendas | Python · Pandas · Plotly | 
+Análisis y Data Storytelling sobre AirBnB Madrid para optimizar el precio de viviendas | Python · Pandas · Plotly | python · pandas · plotly · data-analysis · airbnb · eda · data-storytelling · jupyter-notebook
