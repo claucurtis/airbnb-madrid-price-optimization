@@ -1,7 +1,7 @@
 # 🏠 AirBnB Madrid — Optimización de Precios
 
-> **Proyecto Final — Data Storytelling**
-> Máster en Data Analysis — Nuclio Digital School
+> **Data Storytelling**
+> Máster en Data Analysis
 > Autora: Claudia Balseiros
 
 ---
@@ -96,7 +96,7 @@ pip install -r requirements.txt
 ### 3. Abre el notebook
 
 ```bash
-jupyter notebook proyecto_final_Claudia_Balseiros.ipynb
+jupyter notebook airbnb-madrid-price-optimization.ipynb
 ```
 
 > **Nota:** Los archivos de datos deben estar en la carpeta `data/` para que el notebook funcione correctamente.
@@ -106,5 +106,5 @@ jupyter notebook proyecto_final_Claudia_Balseiros.ipynb
 ## 👩‍💻 Autora
 
 **Claudia Balseiros**
-Máster en Data Analysis — Nuclio Digital School
-[LinkedIn](https://www.linkedin.com/in/claudia-balseiros) · [GitHub](https://github.com/claucurtis)
+Máster en Data Analysis
+[LinkedIn](www.linkedin.com/in/claudia-balseiros-romero-1268b9341) · [GitHub](https://github.com/claucurtis)
